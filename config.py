@@ -10,3 +10,5 @@ db2010 = '../GEOStat/2010-DB_eng/2010 DB'
 db2009 = '../GEOStat/2009-DB_eng/2009 DB'
 
 outDir = '../GEOStat'
+
+regions = '../json/regionigeo2_merge.json'
