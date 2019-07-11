@@ -8,3 +8,5 @@ db2012 = '../GEOStat/2012-DB_eng/2012 DB'
 db2011 = '../GEOStat/2011-DB_eng/2011 DB'
 db2010 = '../GEOStat/2010-DB_eng/2010 DB'
 db2009 = '../GEOStat/2009-DB_eng/2009 DB'
+
+outDir = '../GEOStat'
