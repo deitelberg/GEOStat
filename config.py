@@ -12,3 +12,5 @@ db2009 = '../GEOStat/2009-DB_eng/2009 DB'
 outDir = '../GEOStat'
 
 regions = '../json/regionigeo2_merge.json'
+
+regionLookup = '../json/Georgia_regions_merged.csv'
