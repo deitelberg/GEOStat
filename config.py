@@ -14,3 +14,5 @@ outDir = '../GEOStat'
 regions = '../json/regionigeo2_merge.json'
 
 regionLookup = '../json/Georgia_regions_merged.csv'
+
+drg = '../DRG'
